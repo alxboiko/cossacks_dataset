@@ -1,0 +1,2727 @@
+<?xml version="1.0" encoding="UTF-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="r" attr.type="int" for="node" id="r"/>
+    <key attr.name="g" attr.type="int" for="node" id="g"/>
+    <key attr.name="b" attr.type="int" for="node" id="b"/>
+    <key attr.name="x" attr.type="float" for="node" id="x"/>
+    <key attr.name="y" attr.type="float" for="node" id="y"/>
+    <key attr.name="size" attr.type="float" for="node" id="size"/>
+    <key attr.name="Histed" attr.type="string" for="node" id="histed"/>
+    <key attr.name="PageRank" attr.type="double" for="node" id="pageranks"/>
+    <key attr.name="Суммарная мощность" attr.type="int" for="node" id="degree"/>
+    <key attr.name="Взвешенная мощность" attr.type="double" for="node" id="weighted degree"/>
+    <key attr.name="Eccentricity" attr.type="double" for="node" id="eccentricity"/>
+    <key attr.name="Closeness Centrality" attr.type="double" for="node" id="closnesscentrality"/>
+    <key attr.name="Sex" attr.type="string" for="node" id="sex"/>
+    <key attr.name="Oldbel" attr.type="string" for="node" id="oldbel"/>
+    <key attr.name="Latitude1" attr.type="double" for="node" id="latitude1"/>
+    <key attr.name="Longitude1" attr.type="double" for="node" id="longitude1"/>
+    <key attr.name="Org" attr.type="string" for="node" id="org"/>
+    <key attr.name="Harmonic Closeness Centrality" attr.type="double" for="node" id="harmonicclosnesscentrality"/>
+    <key attr.name="Betweenness Centrality" attr.type="double" for="node" id="betweenesscentrality"/>
+    <key attr.name="Bridging Coefficient" attr.type="bigdecimal" for="node" id="bridgingcoefficient"/>
+    <key attr.name="Reenactment" attr.type="string" for="node" id="reenactment"/>
+    <key attr.name="Name" attr.type="string" for="node" id="name"/>
+    <graph edgedefault="undirected">
+        <node id="1">
+            <data key="label">01</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.010245147899542038</data>
+            <data key="degree">6</data>
+            <data key="weighted degree">6.0</data>
+            <data key="eccentricity">6.0</data>
+            <data key="closnesscentrality">0.3319672131147541</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">55.84757</data>
+            <data key="longitude1">37.72705</data>
+            <data key="org">Free</data>
+            <data key="harmonicclosnesscentrality">0.39794238683127553</data>
+            <data key="betweenesscentrality">0.0013782838238175917</data>
+            <data key="bridgingcoefficient">0.274093074386222046445737987596658058464527130126953125</data>
+            <data key="reenactment">0</data>
+            <data key="size">25.145979</data>
+            <data key="r">28</data>
+            <data key="g">178</data>
+            <data key="b">0</data>
+            <data key="x">-306.3245</data>
+            <data key="y">-806.12964</data>
+        </node>
+        <node id="2">
+            <data key="label">02</data>
+            <data key="histed">1</data>
+            <data key="pageranks">0.010081857745328297</data>
+            <data key="degree">6</data>
+            <data key="weighted degree">6.0</data>
+            <data key="eccentricity">7.0</data>
+            <data key="closnesscentrality">0.313953488372093</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">55.84757</data>
+            <data key="longitude1">37.72705</data>
+            <data key="org">Free</data>
+            <data key="harmonicclosnesscentrality">0.3883891828336271</data>
+            <data key="betweenesscentrality">5.901996801119608E-4</data>
+            <data key="bridgingcoefficient">0.33300685602350643677027619560249149799346923828125</data>
+            <data key="reenactment">1</data>
+            <data key="size">25.06251</data>
+            <data key="r">28</data>
+            <data key="g">178</data>
+            <data key="b">0</data>
+            <data key="x">-334.13376</data>
+            <data key="y">-621.2432</data>
+        </node>
+        <node id="3">
+            <data key="label">03</data>
+            <data key="histed">1</data>
+            <data key="pageranks">0.027242928474791088</data>
+            <data key="degree">17</data>
+            <data key="weighted degree">17.0</data>
+            <data key="eccentricity">6.0</data>
+            <data key="closnesscentrality">0.38207547169811323</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">1</data>
+            <data key="latitude1">47.64914</data>
+            <data key="longitude1">41.34421</data>
+            <data key="org">VVD</data>
+            <data key="harmonicclosnesscentrality">0.49588477366255124</data>
+            <data key="betweenesscentrality">0.04506592587313692</data>
+            <data key="bridgingcoefficient">0.0238841978287092950028469573453548946417868137359619140625</data>
+            <data key="reenactment">0</data>
+            <data key="name"/>
+            <data key="size">29.773104</data>
+            <data key="r">114</data>
+            <data key="g">125</data>
+            <data key="b">255</data>
+            <data key="x">-274.84836</data>
+            <data key="y">-450.18106</data>
+        </node>
+        <node id="4">
+            <data key="label">04</data>
+            <data key="histed">1</data>
+            <data key="pageranks">0.027753691375257728</data>
+            <data key="degree">17</data>
+            <data key="weighted degree">17.0</data>
+            <data key="eccentricity">6.0</data>
+            <data key="closnesscentrality">0.4153846153846154</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">46.85099</data>
+            <data key="longitude1">40.30672</data>
+            <data key="org">Free</data>
+            <data key="harmonicclosnesscentrality">0.5257201646090536</data>
+            <data key="betweenesscentrality">0.11874557892567589</data>
+            <data key="bridgingcoefficient">0.0292410923847629851402007972183128003962337970733642578125</data>
+            <data key="reenactment">1</data>
+            <data key="name">Vasily</data>
+            <data key="size">37.576797</data>
+            <data key="r">28</data>
+            <data key="g">178</data>
+            <data key="b">0</data>
+            <data key="x">-24.735708</data>
+            <data key="y">-155.77011</data>
+        </node>
+        <node id="5">
+            <data key="label">05</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.018744434875211196</data>
+            <data key="degree">12</data>
+            <data key="weighted degree">12.0</data>
+            <data key="eccentricity">6.0</data>
+            <data key="closnesscentrality">0.38571428571428573</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">1</data>
+            <data key="latitude1">47.22446</data>
+            <data key="longitude1">39.71301</data>
+            <data key="org">Free</data>
+            <data key="harmonicclosnesscentrality">0.4763374485596708</data>
+            <data key="betweenesscentrality">0.025521611902295026</data>
+            <data key="bridgingcoefficient">0.0752107941949601011000225980751565657556056976318359375</data>
+            <data key="reenactment">1</data>
+            <data key="name">Fedor</data>
+            <data key="size">27.70309</data>
+            <data key="r">28</data>
+            <data key="g">178</data>
+            <data key="b">0</data>
+            <data key="x">-152.32455</data>
+            <data key="y">-312.33597</data>
+        </node>
+        <node id="6">
+            <data key="label">06</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.03034183427214147</data>
+            <data key="degree">19</data>
+            <data key="weighted degree">19.0</data>
+            <data key="eccentricity">6.0</data>
+            <data key="closnesscentrality">0.391304347826087</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.01391</data>
+            <data key="longitude1">39.28565</data>
+            <data key="org">Free</data>
+            <data key="harmonicclosnesscentrality">0.51440329218107</data>
+            <data key="betweenesscentrality">0.11450606749615605</data>
+            <data key="bridgingcoefficient">0.01856133358006152589414483600194216705858707427978515625</data>
+            <data key="reenactment">1</data>
+            <data key="name">Kondraty</data>
+            <data key="size">37.127773</data>
+            <data key="r">28</data>
+            <data key="g">178</data>
+            <data key="b">0</data>
+            <data key="x">-435.03482</data>
+            <data key="y">-152.82686</data>
+        </node>
+        <node id="7">
+            <data key="label">07</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.01185796508604702</data>
+            <data key="degree">5</data>
+            <data key="weighted degree">5.0</data>
+            <data key="eccentricity">5.0</data>
+            <data key="closnesscentrality">0.3403361344537815</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">46.88533</data>
+            <data key="longitude1">40.15112</data>
+            <data key="org">SKVRZ</data>
+            <data key="harmonicclosnesscentrality">0.39012345679012317</data>
+            <data key="betweenesscentrality">0.038476866894121234</data>
+            <data key="bridgingcoefficient">0.1788353162179085742433670702666859142482280731201171875</data>
+            <data key="reenactment">0</data>
+            <data key="size">29.075232</data>
+            <data key="r">255</data>
+            <data key="g">67</data>
+            <data key="b">32</data>
+            <data key="x">313.14755</data>
+            <data key="y">74.764854</data>
+        </node>
+        <node id="8">
+            <data key="label">08</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.009949040981692628</data>
+            <data key="degree">4</data>
+            <data key="weighted degree">4.0</data>
+            <data key="eccentricity">6.0</data>
+            <data key="closnesscentrality">0.31640625</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">46.97643</data>
+            <data key="longitude1">40.04713</data>
+            <data key="org">SKVRZ</data>
+            <data key="harmonicclosnesscentrality">0.365020576131687</data>
+            <data key="betweenesscentrality">0.015994484213438475</data>
+            <data key="bridgingcoefficient">0.27012711864406779849190343156806193292140960693359375</data>
+            <data key="reenactment">0</data>
+            <data key="size">26.694036</data>
+            <data key="r">255</data>
+            <data key="g">67</data>
+            <data key="b">32</data>
+            <data key="x">413.8427</data>
+            <data key="y">-281.54532</data>
+        </node>
+        <node id="9">
+            <data key="label">09</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.008318905072646302</data>
+            <data key="degree">3</data>
+            <data key="weighted degree">3.0</data>
+            <data key="eccentricity">6.0</data>
+            <data key="closnesscentrality">0.2563291139240506</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">46.979608</data>
+            <data key="longitude1">40.055294</data>
+            <data key="org">SKVRZ</data>
+            <data key="harmonicclosnesscentrality">0.28930041152263364</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="bridgingcoefficient">0.425531914893617024819860716888797469437122344970703125</data>
+            <data key="reenactment">0</data>
+            <data key="size">25.0</data>
+            <data key="r">255</data>
+            <data key="g">67</data>
+            <data key="b">32</data>
+            <data key="x">852.8104</data>
+            <data key="y">88.89259</data>
+        </node>
+        <node id="10">
+            <data key="label">10</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.008318905072646302</data>
+            <data key="degree">3</data>
+            <data key="weighted degree">3.0</data>
+            <data key="eccentricity">6.0</data>
+            <data key="closnesscentrality">0.2563291139240506</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">46.969477</data>
+            <data key="longitude1">40.040874</data>
+            <data key="org">SKVRZ</data>
+            <data key="harmonicclosnesscentrality">0.28930041152263364</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="bridgingcoefficient">0.42553191489361708033101194814662449061870574951171875</data>
+            <data key="reenactment">0</data>
+            <data key="size">25.0</data>
+            <data key="r">255</data>
+            <data key="g">67</data>
+            <data key="b">32</data>
+            <data key="x">634.7804</data>
+            <data key="y">-254.31638</data>
+        </node>
+        <node id="11">
+            <data key="label">11</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.012954597198005294</data>
+            <data key="degree">6</data>
+            <data key="weighted degree">6.0</data>
+            <data key="eccentricity">5.0</data>
+            <data key="closnesscentrality">0.3521739130434783</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.229091</data>
+            <data key="longitude1">39.810687</data>
+            <data key="org">VVD</data>
+            <data key="harmonicclosnesscentrality">0.4166666666666664</data>
+            <data key="betweenesscentrality">0.053157373266377365</data>
+            <data key="bridgingcoefficient">0.12404986318029793956885242778298561461269855499267578125</data>
+            <data key="reenactment">0</data>
+            <data key="name">Ivan</data>
+            <data key="size">30.6301</data>
+            <data key="r">114</data>
+            <data key="g">125</data>
+            <data key="b">255</data>
+            <data key="x">-92.25277</data>
+            <data key="y">176.77176</data>
+        </node>
+        <node id="12">
+            <data key="label">12</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.013961672864145633</data>
+            <data key="degree">6</data>
+            <data key="weighted degree">6.0</data>
+            <data key="eccentricity">6.0</data>
+            <data key="closnesscentrality">0.3306122448979592</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">1</data>
+            <data key="latitude1">47.810451</data>
+            <data key="longitude1">38.909766</data>
+            <data key="org">VVD</data>
+            <data key="harmonicclosnesscentrality">0.3913580246913578</data>
+            <data key="betweenesscentrality">0.05044501389462544</data>
+            <data key="bridgingcoefficient">0.12227074235807859625690952043441939167678356170654296875</data>
+            <data key="reenactment">0</data>
+            <data key="name">Efim</data>
+            <data key="size">30.342823</data>
+            <data key="r">114</data>
+            <data key="g">125</data>
+            <data key="b">255</data>
+            <data key="x">93.79973</data>
+            <data key="y">132.4214</data>
+        </node>
+        <node id="13">
+            <data key="label">13</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.005642563549654391</data>
+            <data key="degree">2</data>
+            <data key="weighted degree">2.0</data>
+            <data key="eccentricity">6.0</data>
+            <data key="closnesscentrality">0.28825622775800713</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.229109</data>
+            <data key="longitude1">39.81168</data>
+            <data key="org">VVD</data>
+            <data key="harmonicclosnesscentrality">0.32181069958847724</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="bridgingcoefficient">1.5</data>
+            <data key="reenactment">0</data>
+            <data key="size">25.0</data>
+            <data key="r">114</data>
+            <data key="g">125</data>
+            <data key="b">255</data>
+            <data key="x">-317.51062</data>
+            <data key="y">19.479914</data>
+        </node>
+        <node id="14">
+            <data key="label">14</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.019468294160204944</data>
+            <data key="degree">12</data>
+            <data key="weighted degree">12.0</data>
+            <data key="eccentricity">6.0</data>
+            <data key="closnesscentrality">0.37327188940092165</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.220184</data>
+            <data key="longitude1">39.707835</data>
+            <data key="org">Free</data>
+            <data key="harmonicclosnesscentrality">0.4699588477366254</data>
+            <data key="betweenesscentrality">0.03520375959965027</data>
+            <data key="bridgingcoefficient">0.0565642714595296081103725782668334431946277618408203125</data>
+            <data key="reenactment">0</data>
+            <data key="size">28.728563</data>
+            <data key="r">28</data>
+            <data key="g">178</data>
+            <data key="b">0</data>
+            <data key="x">-235.7663</data>
+            <data key="y">-156.05864</data>
+        </node>
+        <node id="15">
+            <data key="label">15</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.008023885929628544</data>
+            <data key="degree">4</data>
+            <data key="weighted degree">4.0</data>
+            <data key="eccentricity">6.0</data>
+            <data key="closnesscentrality">0.3319672131147541</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.245765</data>
+            <data key="longitude1">39.712679</data>
+            <data key="org">VVD</data>
+            <data key="harmonicclosnesscentrality">0.3827160493827158</data>
+            <data key="betweenesscentrality">0.002597022274166522</data>
+            <data key="bridgingcoefficient">0.47014925373134330843782890951843000948429107666015625</data>
+            <data key="reenactment">0</data>
+            <data key="size">25.27506</data>
+            <data key="r">114</data>
+            <data key="g">125</data>
+            <data key="b">255</data>
+            <data key="x">-691.77515</data>
+            <data key="y">45.5963</data>
+        </node>
+        <node id="16">
+            <data key="label">16</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.012736117912753678</data>
+            <data key="degree">7</data>
+            <data key="weighted degree">7.0</data>
+            <data key="eccentricity">5.0</data>
+            <data key="closnesscentrality">0.3521739130434783</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.22641</data>
+            <data key="longitude1">39.721617</data>
+            <data key="org">Free</data>
+            <data key="harmonicclosnesscentrality">0.4148148148148146</data>
+            <data key="betweenesscentrality">0.026602419219163266</data>
+            <data key="bridgingcoefficient">0.1349206349206349131453208656239439733326435089111328125</data>
+            <data key="reenactment">0</data>
+            <data key="size">27.817564</data>
+            <data key="r">28</data>
+            <data key="g">178</data>
+            <data key="b">0</data>
+            <data key="x">-277.28488</data>
+            <data key="y">190.972</data>
+        </node>
+        <node id="17">
+            <data key="label">17</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.006077830155267168</data>
+            <data key="degree">2</data>
+            <data key="weighted degree">2.0</data>
+            <data key="eccentricity">6.0</data>
+            <data key="closnesscentrality">0.2862190812720848</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.19263</data>
+            <data key="longitude1">39.63734</data>
+            <data key="org">VVD</data>
+            <data key="harmonicclosnesscentrality">0.3183127572016459</data>
+            <data key="betweenesscentrality">0.008626421060380753</data>
+            <data key="bridgingcoefficient">1.20000000000000017763568394002504646778106689453125</data>
+            <data key="reenactment">0</data>
+            <data key="size">25.913656</data>
+            <data key="r">114</data>
+            <data key="g">125</data>
+            <data key="b">255</data>
+            <data key="x">-458.9598</data>
+            <data key="y">212.13141</data>
+        </node>
+        <node id="18">
+            <data key="label">18</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.0054920334585563365</data>
+            <data key="degree">2</data>
+            <data key="weighted degree">2.0</data>
+            <data key="eccentricity">7.0</data>
+            <data key="closnesscentrality">0.2852112676056338</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.10831</data>
+            <data key="longitude1">39.42286</data>
+            <data key="org">Free</data>
+            <data key="harmonicclosnesscentrality">0.3348912404467958</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="bridgingcoefficient">1.636363636363636242521124586346559226512908935546875</data>
+            <data key="reenactment">1</data>
+            <data key="name">Vladimir</data>
+            <data key="size">25.0</data>
+            <data key="r">28</data>
+            <data key="g">178</data>
+            <data key="b">0</data>
+            <data key="x">-749.1839</data>
+            <data key="y">-418.53513</data>
+        </node>
+        <node id="19">
+            <data key="label">19</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.010499180505412164</data>
+            <data key="degree">4</data>
+            <data key="weighted degree">4.0</data>
+            <data key="eccentricity">7.0</data>
+            <data key="closnesscentrality">0.2892857142857143</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.107092</data>
+            <data key="longitude1">39.420147</data>
+            <data key="org">Free</data>
+            <data key="harmonicclosnesscentrality">0.35135214579659</data>
+            <data key="betweenesscentrality">0.025223899043343486</data>
+            <data key="bridgingcoefficient">0.148760330578512400823143480010912753641605377197265625</data>
+            <data key="reenactment">1</data>
+            <data key="size">27.671558</data>
+            <data key="r">28</data>
+            <data key="g">178</data>
+            <data key="b">0</data>
+            <data key="x">-642.2181</data>
+            <data key="y">-571.7575</data>
+        </node>
+        <node id="20">
+            <data key="label">20</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.006171266623709837</data>
+            <data key="degree">3</data>
+            <data key="weighted degree">3.0</data>
+            <data key="eccentricity">7.0</data>
+            <data key="closnesscentrality">0.2956204379562044</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.217295</data>
+            <data key="longitude1">39.711955</data>
+            <data key="org">Free</data>
+            <data key="harmonicclosnesscentrality">0.35608465608465595</data>
+            <data key="betweenesscentrality">1.1545066369627773E-4</data>
+            <data key="bridgingcoefficient">1.186046511627906863139969573239795863628387451171875</data>
+            <data key="reenactment">0</data>
+            <data key="name">Nikolai</data>
+            <data key="size">25.012228</data>
+            <data key="r">28</data>
+            <data key="g">178</data>
+            <data key="b">0</data>
+            <data key="x">-812.44025</data>
+            <data key="y">-248.5586</data>
+        </node>
+        <node id="21">
+            <data key="label">21</data>
+            <data key="histed">1</data>
+            <data key="pageranks">0.011393268742367034</data>
+            <data key="degree">6</data>
+            <data key="weighted degree">6.0</data>
+            <data key="eccentricity">6.0</data>
+            <data key="closnesscentrality">0.3432203389830508</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.224935</data>
+            <data key="longitude1">39.723204</data>
+            <data key="org">Free</data>
+            <data key="harmonicclosnesscentrality">0.406378600823045</data>
+            <data key="betweenesscentrality">0.009389780653791376</data>
+            <data key="bridgingcoefficient">0.1649341649341649340687609992528450675308704376220703125</data>
+            <data key="reenactment">0</data>
+            <data key="size">25.994507</data>
+            <data key="r">28</data>
+            <data key="g">178</data>
+            <data key="b">0</data>
+            <data key="x">-510.7993</data>
+            <data key="y">22.31302</data>
+        </node>
+        <node id="22">
+            <data key="label">22</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.004060323382788664</data>
+            <data key="degree">1</data>
+            <data key="weighted degree">1.0</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closnesscentrality">0.225</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">46.94017</data>
+            <data key="longitude1">39.693835</data>
+            <data key="org">Free</data>
+            <data key="harmonicclosnesscentrality">0.2546002351557905</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="bridgingcoefficient">4</data>
+            <data key="reenactment">0</data>
+            <data key="size">25.0</data>
+            <data key="r">28</data>
+            <data key="g">178</data>
+            <data key="b">0</data>
+            <data key="x">-499.6565</data>
+            <data key="y">-710.29816</data>
+        </node>
+        <node id="23">
+            <data key="label">23</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.013729423941421473</data>
+            <data key="degree">8</data>
+            <data key="weighted degree">8.0</data>
+            <data key="eccentricity">6.0</data>
+            <data key="closnesscentrality">0.3403361344537815</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">1</data>
+            <data key="latitude1">47.21661</data>
+            <data key="longitude1">39.717164</data>
+            <data key="org">Free</data>
+            <data key="harmonicclosnesscentrality">0.4174897119341562</data>
+            <data key="betweenesscentrality">0.014280089824537136</data>
+            <data key="bridgingcoefficient">0.1579480826623120837126634796732105314731597900390625</data>
+            <data key="reenactment">1</data>
+            <data key="size">26.512459</data>
+            <data key="r">28</data>
+            <data key="g">178</data>
+            <data key="b">0</data>
+            <data key="x">-150.16049</data>
+            <data key="y">-680.948</data>
+        </node>
+        <node id="24">
+            <data key="label">24</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.01577063682230083</data>
+            <data key="degree">10</data>
+            <data key="weighted degree">10.0</data>
+            <data key="eccentricity">6.0</data>
+            <data key="closnesscentrality">0.36</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">1</data>
+            <data key="latitude1">47.216562</data>
+            <data key="longitude1">39.716949</data>
+            <data key="org">Free</data>
+            <data key="harmonicclosnesscentrality">0.4413580246913579</data>
+            <data key="betweenesscentrality">0.004050788900684266</data>
+            <data key="bridgingcoefficient">0.1141652736390726119442007302495767362415790557861328125</data>
+            <data key="reenactment">1</data>
+            <data key="size">25.429035</data>
+            <data key="r">28</data>
+            <data key="g">178</data>
+            <data key="b">0</data>
+            <data key="x">247.17252</data>
+            <data key="y">-386.68393</data>
+        </node>
+        <node id="25">
+            <data key="label">25</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.01135103955578838</data>
+            <data key="degree">4</data>
+            <data key="weighted degree">4.0</data>
+            <data key="eccentricity">6.0</data>
+            <data key="closnesscentrality">0.28421052631578947</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.229434</data>
+            <data key="longitude1">39.811068</data>
+            <data key="org">VVD</data>
+            <data key="harmonicclosnesscentrality">0.3345679012345678</data>
+            <data key="betweenesscentrality">0.040642197345987036</data>
+            <data key="bridgingcoefficient">0.243243243243243256745955704900552518665790557861328125</data>
+            <data key="reenactment">1</data>
+            <data key="size">29.30457</data>
+            <data key="r">114</data>
+            <data key="g">125</data>
+            <data key="b">255</data>
+            <data key="x">-535.89716</data>
+            <data key="y">405.5228</data>
+        </node>
+        <node id="26">
+            <data key="label">26</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.02348019520145485</data>
+            <data key="degree">15</data>
+            <data key="weighted degree">15.0</data>
+            <data key="eccentricity">6.0</data>
+            <data key="closnesscentrality">0.38028169014084506</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">1</data>
+            <data key="latitude1">47.237269</data>
+            <data key="longitude1">40.043573</data>
+            <data key="org">Free</data>
+            <data key="harmonicclosnesscentrality">0.49053497942386826</data>
+            <data key="betweenesscentrality">0.031001882127362306</data>
+            <data key="bridgingcoefficient">0.035634966186709256252829192135322955437004566192626953125</data>
+            <data key="reenactment">1</data>
+            <data key="name">Stepan</data>
+            <data key="size">28.283527</data>
+            <data key="r">28</data>
+            <data key="g">178</data>
+            <data key="b">0</data>
+            <data key="x">103.74294</data>
+            <data key="y">-510.32947</data>
+        </node>
+        <node id="27">
+            <data key="label">27</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.004504880149235223</data>
+            <data key="degree">2</data>
+            <data key="weighted degree">2.0</data>
+            <data key="eccentricity">7.0</data>
+            <data key="closnesscentrality">0.2924187725631769</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">45.023826</data>
+            <data key="longitude1">39.095364</data>
+            <data key="org">VVD</data>
+            <data key="harmonicclosnesscentrality">0.33838918283362707</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="bridgingcoefficient">3.870967741935484429660618843627162277698516845703125</data>
+            <data key="reenactment">0</data>
+            <data key="size">25.0</data>
+            <data key="r">114</data>
+            <data key="g">125</data>
+            <data key="b">255</data>
+            <data key="x">593.4194</data>
+            <data key="y">-604.6538</data>
+        </node>
+        <node id="28">
+            <data key="label">28</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.025357246670837833</data>
+            <data key="degree">16</data>
+            <data key="weighted degree">16.0</data>
+            <data key="eccentricity">6.0</data>
+            <data key="closnesscentrality">0.391304347826087</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.246785</data>
+            <data key="longitude1">39.742345</data>
+            <data key="org">VVD</data>
+            <data key="harmonicclosnesscentrality">0.5</data>
+            <data key="betweenesscentrality">0.060674941365802496</data>
+            <data key="bridgingcoefficient">0.028152340460512161046668921926539042033255100250244140625</data>
+            <data key="reenactment">0</data>
+            <data key="name">Mitrofan</data>
+            <data key="size">31.426315</data>
+            <data key="r">114</data>
+            <data key="g">125</data>
+            <data key="b">255</data>
+            <data key="x">27.931671</data>
+            <data key="y">-344.83173</data>
+        </node>
+        <node id="29">
+            <data key="label">29</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.02615692911768435</data>
+            <data key="degree">9</data>
+            <data key="weighted degree">9.0</data>
+            <data key="eccentricity">6.0</data>
+            <data key="closnesscentrality">0.28027681660899656</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.107994</data>
+            <data key="longitude1">39.768332</data>
+            <data key="org">SKVRZ</data>
+            <data key="harmonicclosnesscentrality">0.3604938271604937</data>
+            <data key="betweenesscentrality">0.09734821703998117</data>
+            <data key="bridgingcoefficient">0.03496503496503496066782901152691920287907123565673828125</data>
+            <data key="reenactment">0</data>
+            <data key="size">35.31052</data>
+            <data key="r">255</data>
+            <data key="g">67</data>
+            <data key="b">32</data>
+            <data key="x">-409.3371</data>
+            <data key="y">563.3329</data>
+        </node>
+        <node id="30">
+            <data key="label">30</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.004302589746335705</data>
+            <data key="degree">1</data>
+            <data key="weighted degree">1.0</data>
+            <data key="eccentricity">7.0</data>
+            <data key="closnesscentrality">0.21951219512195122</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">49.63432</data>
+            <data key="longitude1">41.72176</data>
+            <data key="org">VVD</data>
+            <data key="harmonicclosnesscentrality">0.25302763080540863</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="bridgingcoefficient">9</data>
+            <data key="reenactment">0</data>
+            <data key="size">25.0</data>
+            <data key="r">114</data>
+            <data key="g">125</data>
+            <data key="b">255</data>
+            <data key="x">-798.56085</data>
+            <data key="y">317.28708</data>
+        </node>
+        <node id="31">
+            <data key="label">31</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.009184904827869442</data>
+            <data key="degree">2</data>
+            <data key="weighted degree">2.0</data>
+            <data key="eccentricity">7.0</data>
+            <data key="closnesscentrality">0.22070844686648503</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.117453</data>
+            <data key="longitude1">39.437485</data>
+            <data key="org">VVD</data>
+            <data key="harmonicclosnesscentrality">0.26125808348030577</data>
+            <data key="betweenesscentrality">0.024691358024691357</data>
+            <data key="bridgingcoefficient">0.4499999999999999555910790149937383830547332763671875</data>
+            <data key="reenactment">1</data>
+            <data key="size">27.615156</data>
+            <data key="r">114</data>
+            <data key="g">125</data>
+            <data key="b">255</data>
+            <data key="x">-710.3518</data>
+            <data key="y">477.54453</data>
+        </node>
+        <node id="32">
+            <data key="label">32</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.005736627588464915</data>
+            <data key="degree">1</data>
+            <data key="weighted degree">1.0</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closnesscentrality">0.18120805369127516</data>
+            <data key="sex">Female</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.117103</data>
+            <data key="longitude1">39.435596</data>
+            <data key="org">VVD</data>
+            <data key="harmonicclosnesscentrality">0.204453262786596</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="bridgingcoefficient">2</data>
+            <data key="reenactment">0</data>
+            <data key="size">25.0</data>
+            <data key="r">114</data>
+            <data key="g">125</data>
+            <data key="b">255</data>
+            <data key="x">-593.5097</data>
+            <data key="y">622.0904</data>
+        </node>
+        <node id="33">
+            <data key="label">33</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.009170119850468013</data>
+            <data key="degree">4</data>
+            <data key="weighted degree">4.0</data>
+            <data key="eccentricity">5.0</data>
+            <data key="closnesscentrality">0.3333333333333333</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.24933</data>
+            <data key="longitude1">39.651332</data>
+            <data key="org">SKVRZ</data>
+            <data key="harmonicclosnesscentrality">0.38168724279835364</data>
+            <data key="betweenesscentrality">0.027189148154418752</data>
+            <data key="bridgingcoefficient">0.4790874524714829885141398335690610110759735107421875</data>
+            <data key="reenactment">1</data>
+            <data key="size">27.879705</data>
+            <data key="r">255</data>
+            <data key="g">67</data>
+            <data key="b">32</data>
+            <data key="x">44.50289</data>
+            <data key="y">324.98416</data>
+        </node>
+        <node id="34">
+            <data key="label">34</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.01788219343524017</data>
+            <data key="degree">8</data>
+            <data key="weighted degree">8.0</data>
+            <data key="eccentricity">5.0</data>
+            <data key="closnesscentrality">0.3389121338912134</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.227177</data>
+            <data key="longitude1">39.757902</data>
+            <data key="org">SKVRZ</data>
+            <data key="harmonicclosnesscentrality">0.40493827160493806</data>
+            <data key="betweenesscentrality">0.033023256641391024</data>
+            <data key="bridgingcoefficient">0.061046511627906981101165939662678283639252185821533203125</data>
+            <data key="reenactment">1</data>
+            <data key="size">28.49762</data>
+            <data key="r">255</data>
+            <data key="g">67</data>
+            <data key="b">32</data>
+            <data key="x">438.26282</data>
+            <data key="y">248.92596</data>
+        </node>
+        <node id="35">
+            <data key="label">35</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.005789892458772752</data>
+            <data key="degree">2</data>
+            <data key="weighted degree">2.0</data>
+            <data key="eccentricity">6.0</data>
+            <data key="closnesscentrality">0.25471698113207547</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.294425</data>
+            <data key="longitude1">39.713774</data>
+            <data key="org">SKVRZ</data>
+            <data key="harmonicclosnesscentrality">0.2870370370370368</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="bridgingcoefficient">1.3333333333333332593184650249895639717578887939453125</data>
+            <data key="reenactment">1</data>
+            <data key="size">25.0</data>
+            <data key="r">255</data>
+            <data key="g">67</data>
+            <data key="b">32</data>
+            <data key="x">813.4462</data>
+            <data key="y">292.06985</data>
+        </node>
+        <node id="36">
+            <data key="label">36</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.009694100414437853</data>
+            <data key="degree">4</data>
+            <data key="weighted degree">4.0</data>
+            <data key="eccentricity">6.0</data>
+            <data key="closnesscentrality">0.30451127819548873</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.273056</data>
+            <data key="longitude1">39.802179</data>
+            <data key="org">SKVRZ</data>
+            <data key="harmonicclosnesscentrality">0.3569958847736623</data>
+            <data key="betweenesscentrality">0.007197496027905384</data>
+            <data key="bridgingcoefficient">0.28965517241379312718407845750334672629833221435546875</data>
+            <data key="reenactment">1</data>
+            <data key="size">25.762314</data>
+            <data key="r">255</data>
+            <data key="g">67</data>
+            <data key="b">32</data>
+            <data key="x">504.8526</data>
+            <data key="y">74.876686</data>
+        </node>
+        <node id="37">
+            <data key="label">37</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.00742049315303173</data>
+            <data key="degree">3</data>
+            <data key="weighted degree">3.0</data>
+            <data key="eccentricity">6.0</data>
+            <data key="closnesscentrality">0.2924187725631769</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.259405</data>
+            <data key="longitude1">39.771023</data>
+            <data key="org">SKVRZ</data>
+            <data key="harmonicclosnesscentrality">0.33930041152263357</data>
+            <data key="betweenesscentrality">0.0023848215624531414</data>
+            <data key="bridgingcoefficient">0.6292134831460673982661546688177622854709625244140625</data>
+            <data key="reenactment">0</data>
+            <data key="size">25.252586</data>
+            <data key="r">255</data>
+            <data key="g">67</data>
+            <data key="b">32</data>
+            <data key="x">675.7759</data>
+            <data key="y">147.00632</data>
+        </node>
+        <node id="38">
+            <data key="label">38</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.0076428735652248996</data>
+            <data key="degree">3</data>
+            <data key="weighted degree">3.0</data>
+            <data key="eccentricity">6.0</data>
+            <data key="closnesscentrality">0.2903225806451613</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.260017</data>
+            <data key="longitude1">39.771988</data>
+            <data key="org">SKVRZ</data>
+            <data key="harmonicclosnesscentrality">0.32695473251028784</data>
+            <data key="betweenesscentrality">0.0016554276031400205</data>
+            <data key="bridgingcoefficient">0.554455445544554503811696122284047305583953857421875</data>
+            <data key="reenactment">0</data>
+            <data key="size">25.175333</data>
+            <data key="r">255</data>
+            <data key="g">67</data>
+            <data key="b">32</data>
+            <data key="x">609.905</data>
+            <data key="y">321.28683</data>
+        </node>
+        <node id="39">
+            <data key="label">39</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.01490713984759727</data>
+            <data key="degree">7</data>
+            <data key="weighted degree">7.0</data>
+            <data key="eccentricity">5.0</data>
+            <data key="closnesscentrality">0.3875598086124402</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.307839</data>
+            <data key="longitude1">39.806931</data>
+            <data key="org">SKVRZ</data>
+            <data key="harmonicclosnesscentrality">0.4427983539094649</data>
+            <data key="betweenesscentrality">0.14876302553719123</data>
+            <data key="bridgingcoefficient">0.120882810830611420183089421698241494596004486083984375</data>
+            <data key="reenactment">0</data>
+            <data key="name">Timofey</data>
+            <data key="size">40.756058</data>
+            <data key="r">255</data>
+            <data key="g">67</data>
+            <data key="b">32</data>
+            <data key="x">236.08679</data>
+            <data key="y">251.94577</data>
+        </node>
+        <node id="40">
+            <data key="label">40</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.0087014651232734</data>
+            <data key="degree">5</data>
+            <data key="weighted degree">5.0</data>
+            <data key="eccentricity">7.0</data>
+            <data key="closnesscentrality">0.31640625</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.23139</data>
+            <data key="longitude1">39.818627</data>
+            <data key="org">Free</data>
+            <data key="harmonicclosnesscentrality">0.3873603762492649</data>
+            <data key="betweenesscentrality">2.3551601710643106E-4</data>
+            <data key="bridgingcoefficient">0.61184703824044006648108506851713173091411590576171875</data>
+            <data key="reenactment">0</data>
+            <data key="size">25.024944</data>
+            <data key="r">28</data>
+            <data key="g">178</data>
+            <data key="b">0</data>
+            <data key="x">-110.053474</data>
+            <data key="y">2.5233889</data>
+        </node>
+        <node id="41">
+            <data key="label">41</data>
+            <data key="histed">1</data>
+            <data key="pageranks">0.010944224168260663</data>
+            <data key="degree">6</data>
+            <data key="weighted degree">6.0</data>
+            <data key="eccentricity">6.0</data>
+            <data key="closnesscentrality">0.3306122448979592</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">1</data>
+            <data key="latitude1">47.185833</data>
+            <data key="longitude1">39.953619</data>
+            <data key="org">Free</data>
+            <data key="harmonicclosnesscentrality">0.3958847736625512</data>
+            <data key="betweenesscentrality">0.0044476980630733035</data>
+            <data key="bridgingcoefficient">0.1909880115750310081157437025467515923082828521728515625</data>
+            <data key="reenactment">0</data>
+            <data key="size">25.471073</data>
+            <data key="r">28</data>
+            <data key="g">178</data>
+            <data key="b">0</data>
+            <data key="x">-645.4612</data>
+            <data key="y">-139.53653</data>
+        </node>
+        <node id="42">
+            <data key="label">42</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.01812192176245072</data>
+            <data key="degree">11</data>
+            <data key="weighted degree">11.0</data>
+            <data key="eccentricity">5.0</data>
+            <data key="closnesscentrality">0.391304347826087</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.73661</data>
+            <data key="longitude1">40.26104</data>
+            <data key="org">Free</data>
+            <data key="harmonicclosnesscentrality">0.4685185185185184</data>
+            <data key="betweenesscentrality">0.07917446839742878</data>
+            <data key="bridgingcoefficient">0.0740682468699509211074172299049678258597850799560546875</data>
+            <data key="reenactment">1</data>
+            <data key="size">33.38567</data>
+            <data key="r">28</data>
+            <data key="g">178</data>
+            <data key="b">0</data>
+            <data key="x">-388.5855</data>
+            <data key="y">-315.35638</data>
+        </node>
+        <node id="43">
+            <data key="label">43</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.010195682663079016</data>
+            <data key="degree">6</data>
+            <data key="weighted degree">6.0</data>
+            <data key="eccentricity">6.0</data>
+            <data key="closnesscentrality">0.3333333333333333</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.733291</data>
+            <data key="longitude1">40.257125</data>
+            <data key="org">Free</data>
+            <data key="harmonicclosnesscentrality">0.39999999999999974</data>
+            <data key="betweenesscentrality">7.73990512050941E-4</data>
+            <data key="bridgingcoefficient">0.321881947930861389561840724127250723540782928466796875</data>
+            <data key="reenactment">0</data>
+            <data key="size">25.081976</data>
+            <data key="r">28</data>
+            <data key="g">178</data>
+            <data key="b">0</data>
+            <data key="x">-485.99615</data>
+            <data key="y">-486.08923</data>
+        </node>
+        <node id="44">
+            <data key="label">44</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.012165298088902914</data>
+            <data key="degree">5</data>
+            <data key="weighted degree">5.0</data>
+            <data key="eccentricity">5.0</data>
+            <data key="closnesscentrality">0.35064935064935066</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.707821</data>
+            <data key="longitude1">40.222982</data>
+            <data key="org">VVD</data>
+            <data key="harmonicclosnesscentrality">0.40246913580246896</data>
+            <data key="betweenesscentrality">0.11417767889097863</data>
+            <data key="bridgingcoefficient">0.197407776669990042694990961535950191318988800048828125</data>
+            <data key="reenactment">1</data>
+            <data key="name">Semyon</data>
+            <data key="size">37.092995</data>
+            <data key="r">114</data>
+            <data key="g">125</data>
+            <data key="b">255</data>
+            <data key="x">-155.44719</data>
+            <data key="y">364.2672</data>
+        </node>
+        <node id="45">
+            <data key="label">45</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.005982746414577465</data>
+            <data key="degree">2</data>
+            <data key="weighted degree">2.0</data>
+            <data key="eccentricity">5.0</data>
+            <data key="closnesscentrality">0.29136690647482016</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.707466</data>
+            <data key="longitude1">40.222562</data>
+            <data key="org">VVD</data>
+            <data key="harmonicclosnesscentrality">0.32325102880658424</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="bridgingcoefficient">1.607142857142857206298458550008945167064666748046875</data>
+            <data key="reenactment">1</data>
+            <data key="name">Mikhail</data>
+            <data key="size">25.0</data>
+            <data key="r">114</data>
+            <data key="g">125</data>
+            <data key="b">255</data>
+            <data key="x">-28.776392</data>
+            <data key="y">515.3161</data>
+        </node>
+        <node id="46">
+            <data key="label">46</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.022050439780037855</data>
+            <data key="degree">9</data>
+            <data key="weighted degree">9.0</data>
+            <data key="eccentricity">5.0</data>
+            <data key="closnesscentrality">0.34615384615384615</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.721975</data>
+            <data key="longitude1">40.223908</data>
+            <data key="org">SKVRZ</data>
+            <data key="harmonicclosnesscentrality">0.41481481481481475</data>
+            <data key="betweenesscentrality">0.2157761592685197</data>
+            <data key="bridgingcoefficient">0.054988216810683422652861196411322453059256076812744140625</data>
+            <data key="reenactment">0</data>
+            <data key="name">Ermak</data>
+            <data key="size">47.853676</data>
+            <data key="r">255</data>
+            <data key="g">67</data>
+            <data key="b">32</data>
+            <data key="x">-219.18237</data>
+            <data key="y">561.6786</data>
+        </node>
+        <node id="47">
+            <data key="label">47</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.008718322385713552</data>
+            <data key="degree">3</data>
+            <data key="weighted degree">3.0</data>
+            <data key="eccentricity">7.0</data>
+            <data key="closnesscentrality">0.2154255319148936</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.712101</data>
+            <data key="longitude1">40.207944</data>
+            <data key="org">Free</data>
+            <data key="harmonicclosnesscentrality">0.2542621987066432</data>
+            <data key="betweenesscentrality">6.17283950617284E-5</data>
+            <data key="bridgingcoefficient">0.58823529411764707841570043456158600747585296630859375</data>
+            <data key="reenactment">0</data>
+            <data key="size">25.006538</data>
+            <data key="r">28</data>
+            <data key="g">178</data>
+            <data key="b">0</data>
+            <data key="x">-125.29416</data>
+            <data key="y">867.39185</data>
+        </node>
+        <node id="48">
+            <data key="label">48</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.008718322385713552</data>
+            <data key="degree">3</data>
+            <data key="weighted degree">3.0</data>
+            <data key="eccentricity">7.0</data>
+            <data key="closnesscentrality">0.2154255319148936</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.65769</data>
+            <data key="longitude1">40.20199</data>
+            <data key="org">Free</data>
+            <data key="harmonicclosnesscentrality">0.2542621987066432</data>
+            <data key="betweenesscentrality">6.17283950617284E-5</data>
+            <data key="bridgingcoefficient">0.58823529411764707841570043456158600747585296630859375</data>
+            <data key="reenactment">0</data>
+            <data key="size">25.006538</data>
+            <data key="r">28</data>
+            <data key="g">178</data>
+            <data key="b">0</data>
+            <data key="x">-437.6534</data>
+            <data key="y">751.1986</data>
+        </node>
+        <node id="49">
+            <data key="label">49</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.006788643257877784</data>
+            <data key="degree">2</data>
+            <data key="weighted degree">2.0</data>
+            <data key="eccentricity">7.0</data>
+            <data key="closnesscentrality">0.22010869565217392</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.246374</data>
+            <data key="longitude1">39.723827</data>
+            <data key="org">Free</data>
+            <data key="harmonicclosnesscentrality">0.2592004703115815</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="bridgingcoefficient">1.384615384615384581223906934610567986965179443359375</data>
+            <data key="reenactment">0</data>
+            <data key="size">25.0</data>
+            <data key="r">28</data>
+            <data key="g">178</data>
+            <data key="b">0</data>
+            <data key="x">-850.50793</data>
+            <data key="y">135.82732</data>
+        </node>
+        <node id="50">
+            <data key="label">50</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.011688149098288208</data>
+            <data key="degree">4</data>
+            <data key="weighted degree">4.0</data>
+            <data key="eccentricity">6.0</data>
+            <data key="closnesscentrality">0.2727272727272727</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.41975</data>
+            <data key="longitude1">40.08673</data>
+            <data key="org">VVD</data>
+            <data key="harmonicclosnesscentrality">0.32345679012345663</data>
+            <data key="betweenesscentrality">0.014030315805413269</data>
+            <data key="bridgingcoefficient">0.25714285714285711748061657999642193317413330078125</data>
+            <data key="reenactment">0</data>
+            <data key="size">26.486004</data>
+            <data key="r">114</data>
+            <data key="g">125</data>
+            <data key="b">255</data>
+            <data key="x">-345.85208</data>
+            <data key="y">384.97122</data>
+        </node>
+        <node id="51">
+            <data key="label">51</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.013595014566582615</data>
+            <data key="degree">5</data>
+            <data key="weighted degree">5.0</data>
+            <data key="eccentricity">6.0</data>
+            <data key="closnesscentrality">0.2709030100334448</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.636246</data>
+            <data key="longitude1">40.184813</data>
+            <data key="org">SKVRZ</data>
+            <data key="harmonicclosnesscentrality">0.3265432098765431</data>
+            <data key="betweenesscentrality">0.015946502057613193</data>
+            <data key="bridgingcoefficient">0.1894736842105263219249167150337598286569118499755859375</data>
+            <data key="reenactment">0</data>
+            <data key="size">26.688955</data>
+            <data key="r">255</data>
+            <data key="g">67</data>
+            <data key="b">32</data>
+            <data key="x">-270.71106</data>
+            <data key="y">764.064</data>
+        </node>
+        <node id="52">
+            <data key="label">52</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.013595014566582615</data>
+            <data key="degree">5</data>
+            <data key="weighted degree">5.0</data>
+            <data key="eccentricity">6.0</data>
+            <data key="closnesscentrality">0.2709030100334448</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.632892</data>
+            <data key="longitude1">40.173826</data>
+            <data key="org">SKVRZ</data>
+            <data key="harmonicclosnesscentrality">0.3265432098765431</data>
+            <data key="betweenesscentrality">0.015946502057613193</data>
+            <data key="bridgingcoefficient">0.1894736842105263219249167150337598286569118499755859375</data>
+            <data key="reenactment">0</data>
+            <data key="size">26.688955</data>
+            <data key="r">255</data>
+            <data key="g">67</data>
+            <data key="b">32</data>
+            <data key="x">69.21732</data>
+            <data key="y">851.08527</data>
+        </node>
+        <node id="53">
+            <data key="label">53</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.015958373562765766</data>
+            <data key="degree">6</data>
+            <data key="weighted degree">6.0</data>
+            <data key="eccentricity">6.0</data>
+            <data key="closnesscentrality">0.27181208053691275</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.630578</data>
+            <data key="longitude1">40.171981</data>
+            <data key="org">SKVRZ</data>
+            <data key="harmonicclosnesscentrality">0.33271604938271593</data>
+            <data key="betweenesscentrality">0.016008230452674924</data>
+            <data key="bridgingcoefficient">0.12931034482758618775477543749730102717876434326171875</data>
+            <data key="reenactment">0</data>
+            <data key="size">26.695492</data>
+            <data key="r">255</data>
+            <data key="g">67</data>
+            <data key="b">32</data>
+            <data key="x">-69.94515</data>
+            <data key="y">693.2766</data>
+        </node>
+        <node id="54">
+            <data key="label">54</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.022000319727493358</data>
+            <data key="degree">9</data>
+            <data key="weighted degree">9.0</data>
+            <data key="eccentricity">5.0</data>
+            <data key="closnesscentrality">0.3446808510638298</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">48.32756</data>
+            <data key="longitude1">40.270761</data>
+            <data key="org">VVD</data>
+            <data key="harmonicclosnesscentrality">0.41728395061728385</data>
+            <data key="betweenesscentrality">0.1705876142529408</data>
+            <data key="bridgingcoefficient">0.051498127340823963982163746777587221004068851470947265625</data>
+            <data key="reenactment">0</data>
+            <data key="name">Matvey</data>
+            <data key="size">43.06758</data>
+            <data key="r">114</data>
+            <data key="g">125</data>
+            <data key="b">255</data>
+            <data key="x">155.46666</data>
+            <data key="y">475.79184</data>
+        </node>
+        <node id="55">
+            <data key="label">55</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.013102972428418324</data>
+            <data key="degree">5</data>
+            <data key="weighted degree">5.0</data>
+            <data key="eccentricity">6.0</data>
+            <data key="closnesscentrality">0.2793103448275862</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">48.327257</data>
+            <data key="longitude1">40.271003</data>
+            <data key="org">VVD</data>
+            <data key="harmonicclosnesscentrality">0.3323045267489711</data>
+            <data key="betweenesscentrality">0.00868533215755438</data>
+            <data key="bridgingcoefficient">0.162895927601809986651204553709249012172222137451171875</data>
+            <data key="reenactment">0</data>
+            <data key="size">25.919897</data>
+            <data key="r">114</data>
+            <data key="g">125</data>
+            <data key="b">255</data>
+            <data key="x">327.5962</data>
+            <data key="y">414.12976</data>
+        </node>
+        <node id="56">
+            <data key="label">56</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.010937050663047964</data>
+            <data key="degree">4</data>
+            <data key="weighted degree">4.0</data>
+            <data key="eccentricity">6.0</data>
+            <data key="closnesscentrality">0.25961538461538464</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">48.327642</data>
+            <data key="longitude1">40.269908</data>
+            <data key="org">VVD</data>
+            <data key="harmonicclosnesscentrality">0.3045267489711933</data>
+            <data key="betweenesscentrality">1.0288065843621399E-4</data>
+            <data key="bridgingcoefficient">0.25568181818181823228286475568893365561962127685546875</data>
+            <data key="reenactment">0</data>
+            <data key="size">25.010897</data>
+            <data key="r">114</data>
+            <data key="g">125</data>
+            <data key="b">255</data>
+            <data key="x">320.73395</data>
+            <data key="y">608.74945</data>
+        </node>
+        <node id="57">
+            <data key="label">57</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.008463435767935581</data>
+            <data key="degree">3</data>
+            <data key="weighted degree">3.0</data>
+            <data key="eccentricity">6.0</data>
+            <data key="closnesscentrality">0.25878594249201275</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">48.327192</data>
+            <data key="longitude1">40.270182</data>
+            <data key="org">VVD</data>
+            <data key="harmonicclosnesscentrality">0.29835390946502044</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="bridgingcoefficient">0.59405940594059403192517265779315494000911712646484375</data>
+            <data key="reenactment">0</data>
+            <data key="size">25.0</data>
+            <data key="r">114</data>
+            <data key="g">125</data>
+            <data key="b">255</data>
+            <data key="x">494.2566</data>
+            <data key="y">479.36237</data>
+        </node>
+        <node id="58">
+            <data key="label">58</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.008463435767935581</data>
+            <data key="degree">3</data>
+            <data key="weighted degree">3.0</data>
+            <data key="eccentricity">6.0</data>
+            <data key="closnesscentrality">0.25878594249201275</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">48.325527</data>
+            <data key="longitude1">40.278111</data>
+            <data key="org">VVD</data>
+            <data key="harmonicclosnesscentrality">0.29835390946502044</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="bridgingcoefficient">0.59405940594059403192517265779315494000911712646484375</data>
+            <data key="reenactment">0</data>
+            <data key="size">25.0</data>
+            <data key="r">114</data>
+            <data key="g">125</data>
+            <data key="b">255</data>
+            <data key="x">134.65437</data>
+            <data key="y">670.3282</data>
+        </node>
+        <node id="59">
+            <data key="label">59</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.01285661017154634</data>
+            <data key="degree">4</data>
+            <data key="weighted degree">4.0</data>
+            <data key="eccentricity">6.0</data>
+            <data key="closnesscentrality">0.26129032258064516</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">48.36027</data>
+            <data key="longitude1">40.21005</data>
+            <data key="org">VVD</data>
+            <data key="harmonicclosnesscentrality">0.3086419753086419</data>
+            <data key="betweenesscentrality">0.024228395061728396</data>
+            <data key="bridgingcoefficient">0.18367346938775508391472612856887280941009521484375</data>
+            <data key="reenactment">0</data>
+            <data key="size">27.566122</data>
+            <data key="r">114</data>
+            <data key="g">125</data>
+            <data key="b">255</data>
+            <data key="x">715.72675</data>
+            <data key="y">475.03378</data>
+        </node>
+        <node id="60">
+            <data key="label">60</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.01285661017154634</data>
+            <data key="degree">4</data>
+            <data key="weighted degree">4.0</data>
+            <data key="eccentricity">6.0</data>
+            <data key="closnesscentrality">0.26129032258064516</data>
+            <data key="sex">Female</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">48.359978</data>
+            <data key="longitude1">40.207182</data>
+            <data key="org">VVD</data>
+            <data key="harmonicclosnesscentrality">0.3086419753086419</data>
+            <data key="betweenesscentrality">0.024228395061728396</data>
+            <data key="bridgingcoefficient">0.18367346938775508391472612856887280941009521484375</data>
+            <data key="reenactment">0</data>
+            <data key="size">27.566122</data>
+            <data key="r">114</data>
+            <data key="g">125</data>
+            <data key="b">255</data>
+            <data key="x">444.67975</data>
+            <data key="y">736.4312</data>
+        </node>
+        <node id="61">
+            <data key="label">61</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.0073007094167936</data>
+            <data key="degree">2</data>
+            <data key="weighted degree">2.0</data>
+            <data key="eccentricity">7.0</data>
+            <data key="closnesscentrality">0.20822622107969152</data>
+            <data key="sex">Female</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">48.37771</data>
+            <data key="longitude1">40.07751</data>
+            <data key="org">VVD</data>
+            <data key="harmonicclosnesscentrality">0.23750734861845968</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="bridgingcoefficient">1</data>
+            <data key="reenactment">0</data>
+            <data key="size">25.0</data>
+            <data key="r">114</data>
+            <data key="g">125</data>
+            <data key="b">255</data>
+            <data key="x">267.8627</data>
+            <data key="y">818.075</data>
+        </node>
+        <node id="62">
+            <data key="label">62</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.0073007094167936</data>
+            <data key="degree">2</data>
+            <data key="weighted degree">2.0</data>
+            <data key="eccentricity">7.0</data>
+            <data key="closnesscentrality">0.20822622107969152</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">48.242236</data>
+            <data key="longitude1">40.121172</data>
+            <data key="org">VVD</data>
+            <data key="harmonicclosnesscentrality">0.23750734861845968</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="bridgingcoefficient">1</data>
+            <data key="reenactment">0</data>
+            <data key="size">25.0</data>
+            <data key="r">114</data>
+            <data key="g">125</data>
+            <data key="b">255</data>
+            <data key="x">596.67114</data>
+            <data key="y">625.7322</data>
+        </node>
+        <node id="63">
+            <data key="label">63</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.008657248777386137</data>
+            <data key="degree">4</data>
+            <data key="weighted degree">4.0</data>
+            <data key="eccentricity">6.0</data>
+            <data key="closnesscentrality">0.32926829268292684</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">48.317319</data>
+            <data key="longitude1">40.285165</data>
+            <data key="org">Free</data>
+            <data key="harmonicclosnesscentrality">0.38744855967078173</data>
+            <data key="betweenesscentrality">0.027235202054280993</data>
+            <data key="bridgingcoefficient">0.428571428571428547638078043746645562350749969482421875</data>
+            <data key="reenactment">1</data>
+            <data key="size">27.884584</data>
+            <data key="r">28</data>
+            <data key="g">178</data>
+            <data key="b">0</data>
+            <data key="x">-634.4125</data>
+            <data key="y">232.05586</data>
+        </node>
+        <node id="64">
+            <data key="label">64</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.02512257183331199</data>
+            <data key="degree">14</data>
+            <data key="weighted degree">14.0</data>
+            <data key="eccentricity">5.0</data>
+            <data key="closnesscentrality">0.400990099009901</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.247095</data>
+            <data key="longitude1">39.71865</data>
+            <data key="org">SKVRZ</data>
+            <data key="harmonicclosnesscentrality">0.49506172839506185</data>
+            <data key="betweenesscentrality">0.23604099518716526</data>
+            <data key="bridgingcoefficient">0.036211946392118575521745782452853745780885219573974609375</data>
+            <data key="reenactment">0</data>
+            <data key="name">Petr</data>
+            <data key="size">50.0</data>
+            <data key="r">255</data>
+            <data key="g">67</data>
+            <data key="b">32</data>
+            <data key="x">321.80463</data>
+            <data key="y">-104.09432</data>
+        </node>
+        <node id="65">
+            <data key="label">65</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.01228086587536235</data>
+            <data key="degree">6</data>
+            <data key="weighted degree">6.0</data>
+            <data key="eccentricity">6.0</data>
+            <data key="closnesscentrality">0.2956204379562044</data>
+            <data key="sex">Female</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.247096</data>
+            <data key="longitude1">39.7187</data>
+            <data key="org">SKVRZ</data>
+            <data key="harmonicclosnesscentrality">0.3578189300411522</data>
+            <data key="betweenesscentrality">0.023456790123456795</data>
+            <data key="bridgingcoefficient">0.165876777251184825967555980241741053760051727294921875</data>
+            <data key="reenactment">0</data>
+            <data key="size">27.484398</data>
+            <data key="r">255</data>
+            <data key="g">67</data>
+            <data key="b">32</data>
+            <data key="x">513.4999</data>
+            <data key="y">-114.31767</data>
+        </node>
+        <node id="66">
+            <data key="label">66</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.01228086587536235</data>
+            <data key="degree">6</data>
+            <data key="weighted degree">6.0</data>
+            <data key="eccentricity">6.0</data>
+            <data key="closnesscentrality">0.2956204379562044</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.247097</data>
+            <data key="longitude1">39.7188</data>
+            <data key="org">SKVRZ</data>
+            <data key="harmonicclosnesscentrality">0.3578189300411522</data>
+            <data key="betweenesscentrality">0.023456790123456795</data>
+            <data key="bridgingcoefficient">0.165876777251184825967555980241741053760051727294921875</data>
+            <data key="reenactment">0</data>
+            <data key="size">27.484398</data>
+            <data key="r">255</data>
+            <data key="g">67</data>
+            <data key="b">32</data>
+            <data key="x">688.7304</data>
+            <data key="y">-53.13969</data>
+        </node>
+        <node id="67">
+            <data key="label">67</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.01228086587536235</data>
+            <data key="degree">6</data>
+            <data key="weighted degree">6.0</data>
+            <data key="eccentricity">6.0</data>
+            <data key="closnesscentrality">0.2956204379562044</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.247098</data>
+            <data key="longitude1">39.71885</data>
+            <data key="org">SKVRZ</data>
+            <data key="harmonicclosnesscentrality">0.3578189300411522</data>
+            <data key="betweenesscentrality">0.023456790123456795</data>
+            <data key="bridgingcoefficient">0.165876777251184825967555980241741053760051727294921875</data>
+            <data key="reenactment">0</data>
+            <data key="size">27.484398</data>
+            <data key="r">255</data>
+            <data key="g">67</data>
+            <data key="b">32</data>
+            <data key="x">537.5191</data>
+            <data key="y">-421.26013</data>
+        </node>
+        <node id="68">
+            <data key="label">68</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.0106800063209556</data>
+            <data key="degree">5</data>
+            <data key="weighted degree">5.0</data>
+            <data key="eccentricity">7.0</data>
+            <data key="closnesscentrality">0.23142857142857143</data>
+            <data key="sex">Female</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.247105</data>
+            <data key="longitude1">39.7189</data>
+            <data key="org">SKVRZ</data>
+            <data key="harmonicclosnesscentrality">0.2814226925338035</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="bridgingcoefficient">0.222222222222222265397562068756087683141231536865234375</data>
+            <data key="reenactment">0</data>
+            <data key="size">25.0</data>
+            <data key="r">255</data>
+            <data key="g">67</data>
+            <data key="b">32</data>
+            <data key="x">810.1042</data>
+            <data key="y">-292.12103</data>
+        </node>
+        <node id="69">
+            <data key="label">69</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.0106800063209556</data>
+            <data key="degree">5</data>
+            <data key="weighted degree">5.0</data>
+            <data key="eccentricity">7.0</data>
+            <data key="closnesscentrality">0.23142857142857143</data>
+            <data key="sex">Female</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.247106</data>
+            <data key="longitude1">39.71895</data>
+            <data key="org">SKVRZ</data>
+            <data key="harmonicclosnesscentrality">0.2814226925338035</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="bridgingcoefficient">0.222222222222222265397562068756087683141231536865234375</data>
+            <data key="reenactment">0</data>
+            <data key="size">25.0</data>
+            <data key="r">255</data>
+            <data key="g">67</data>
+            <data key="b">32</data>
+            <data key="x">856.55</data>
+            <data key="y">-109.59876</data>
+        </node>
+        <node id="70">
+            <data key="label">70</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.0106800063209556</data>
+            <data key="degree">5</data>
+            <data key="weighted degree">5.0</data>
+            <data key="eccentricity">7.0</data>
+            <data key="closnesscentrality">0.23142857142857143</data>
+            <data key="sex">Female</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.247107</data>
+            <data key="longitude1">39.719</data>
+            <data key="org">SKVRZ</data>
+            <data key="harmonicclosnesscentrality">0.2814226925338035</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="bridgingcoefficient">0.222222222222222265397562068756087683141231536865234375</data>
+            <data key="reenactment">0</data>
+            <data key="size">25.0</data>
+            <data key="r">255</data>
+            <data key="g">67</data>
+            <data key="b">32</data>
+            <data key="x">725.42395</data>
+            <data key="y">-462.6497</data>
+        </node>
+        <node id="71">
+            <data key="label">71</data>
+            <data key="histed">1</data>
+            <data key="pageranks">0.027103180042805475</data>
+            <data key="degree">16</data>
+            <data key="weighted degree">16.0</data>
+            <data key="eccentricity">6.0</data>
+            <data key="closnesscentrality">0.38388625592417064</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">1</data>
+            <data key="latitude1">47.47283</data>
+            <data key="longitude1">40.502182</data>
+            <data key="org">Free</data>
+            <data key="harmonicclosnesscentrality">0.4938271604938269</data>
+            <data key="betweenesscentrality">0.10441006367892622</data>
+            <data key="bridgingcoefficient">0.02554474200265920147412401775000034831464290618896484375</data>
+            <data key="reenactment">0</data>
+            <data key="name">Grigory</data>
+            <data key="size">36.058468</data>
+            <data key="r">28</data>
+            <data key="g">178</data>
+            <data key="b">0</data>
+            <data key="x">-86.14015</data>
+            <data key="y">-515.58514</data>
+        </node>
+        <node id="72">
+            <data key="label">72</data>
+            <data key="histed">1</data>
+            <data key="pageranks">0.01711900355087485</data>
+            <data key="degree">10</data>
+            <data key="weighted degree">10.0</data>
+            <data key="eccentricity">6.0</data>
+            <data key="closnesscentrality">0.3767441860465116</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">1</data>
+            <data key="latitude1">47.473011</data>
+            <data key="longitude1">40.504993</data>
+            <data key="org">Free</data>
+            <data key="harmonicclosnesscentrality">0.45987654320987637</data>
+            <data key="betweenesscentrality">0.0582533661323006</data>
+            <data key="bridgingcoefficient">0.090198881988647616747556412519770674407482147216796875</data>
+            <data key="reenactment">0</data>
+            <data key="name">Ignat</data>
+            <data key="size">31.169836</data>
+            <data key="r">28</data>
+            <data key="g">178</data>
+            <data key="b">0</data>
+            <data key="x">367.7521</data>
+            <data key="y">-517.5422</data>
+        </node>
+        <node id="73">
+            <data key="label">73</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.007457192119165906</data>
+            <data key="degree">3</data>
+            <data key="weighted degree">3.0</data>
+            <data key="eccentricity">7.0</data>
+            <data key="closnesscentrality">0.28027681660899656</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.541085</data>
+            <data key="longitude1">40.647418</data>
+            <data key="org">VVD</data>
+            <data key="harmonicclosnesscentrality">0.3297472075249851</data>
+            <data key="betweenesscentrality">1.5432098765432098E-4</data>
+            <data key="bridgingcoefficient">0.41025641025641024217662788942106999456882476806640625</data>
+            <data key="reenactment">0</data>
+            <data key="size">25.016344</data>
+            <data key="r">114</data>
+            <data key="g">125</data>
+            <data key="b">255</data>
+            <data key="x">43.76079</data>
+            <data key="y">-700.3995</data>
+        </node>
+        <node id="74">
+            <data key="label">74</data>
+            <data key="histed">1</data>
+            <data key="pageranks">0.0053807001620041015</data>
+            <data key="degree">2</data>
+            <data key="weighted degree">2.0</data>
+            <data key="eccentricity">7.0</data>
+            <data key="closnesscentrality">0.2793103448275862</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.540991</data>
+            <data key="longitude1">40.647869</data>
+            <data key="org">Free</data>
+            <data key="harmonicclosnesscentrality">0.32357436801881223</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="bridgingcoefficient">1.2631578947368422571884138960740529000759124755859375</data>
+            <data key="reenactment">0</data>
+            <data key="size">25.0</data>
+            <data key="r">28</data>
+            <data key="g">178</data>
+            <data key="b">0</data>
+            <data key="x">-99.906906</data>
+            <data key="y">-862.064</data>
+        </node>
+        <node id="75">
+            <data key="label">75</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.012470525797357454</data>
+            <data key="degree">5</data>
+            <data key="weighted degree">5.0</data>
+            <data key="eccentricity">7.0</data>
+            <data key="closnesscentrality">0.2977941176470588</data>
+            <data key="sex">Female</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.540553</data>
+            <data key="longitude1">40.647418</data>
+            <data key="org">Free</data>
+            <data key="harmonicclosnesscentrality">0.35855379188712505</data>
+            <data key="betweenesscentrality">0.04876543209876543</data>
+            <data key="bridgingcoefficient">0.1415929203539822989199592484510503709316253662109375</data>
+            <data key="reenactment">0</data>
+            <data key="size">30.164932</data>
+            <data key="r">28</data>
+            <data key="g">178</data>
+            <data key="b">0</data>
+            <data key="x">303.03168</data>
+            <data key="y">-810.1134</data>
+        </node>
+        <node id="76">
+            <data key="label">76</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.006872349414372059</data>
+            <data key="degree">2</data>
+            <data key="weighted degree">2.0</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closnesscentrality">0.23076923076923078</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.529488</data>
+            <data key="longitude1">40.63714</data>
+            <data key="org">Free</data>
+            <data key="harmonicclosnesscentrality">0.2644767783656671</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="bridgingcoefficient">0.71428571428571430157461463750223629176616668701171875</data>
+            <data key="reenactment">0</data>
+            <data key="size">25.0</data>
+            <data key="r">28</data>
+            <data key="g">178</data>
+            <data key="b">0</data>
+            <data key="x">460.10712</data>
+            <data key="y">-712.04364</data>
+        </node>
+        <node id="77">
+            <data key="label">77</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.006872349414372059</data>
+            <data key="degree">2</data>
+            <data key="weighted degree">2.0</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closnesscentrality">0.23076923076923078</data>
+            <data key="sex">Female</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.529488</data>
+            <data key="longitude1">40.637505</data>
+            <data key="org">Free</data>
+            <data key="harmonicclosnesscentrality">0.2644767783656671</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="bridgingcoefficient">0.71428571428571430157461463750223629176616668701171875</data>
+            <data key="reenactment">0</data>
+            <data key="size">25.0</data>
+            <data key="r">28</data>
+            <data key="g">178</data>
+            <data key="b">0</data>
+            <data key="x">113.11515</data>
+            <data key="y">-861.1638</data>
+        </node>
+        <node id="78">
+            <data key="label">78</data>
+            <data key="histed">1</data>
+            <data key="pageranks">0.008955781628868011</data>
+            <data key="degree">4</data>
+            <data key="weighted degree">4.0</data>
+            <data key="eccentricity">7.0</data>
+            <data key="closnesscentrality">0.2967032967032967</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.541284</data>
+            <data key="longitude1">40.647134</data>
+            <data key="org">Free</data>
+            <data key="harmonicclosnesscentrality">0.35238095238095224</data>
+            <data key="betweenesscentrality">0.0013587818217447847</data>
+            <data key="bridgingcoefficient">0.359281437125748503991218285591457970440387725830078125</data>
+            <data key="reenactment">0</data>
+            <data key="size">25.143913</data>
+            <data key="r">28</data>
+            <data key="g">178</data>
+            <data key="b">0</data>
+            <data key="x">240.4197</data>
+            <data key="y">-646.3499</data>
+        </node>
+        <node id="79">
+            <data key="label">79</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.018602314691063906</data>
+            <data key="degree">11</data>
+            <data key="weighted degree">11.0</data>
+            <data key="eccentricity">5.0</data>
+            <data key="closnesscentrality">0.40703517587939697</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.524246</data>
+            <data key="longitude1">40.776373</data>
+            <data key="org">VVD</data>
+            <data key="harmonicclosnesscentrality">0.48189300411522623</data>
+            <data key="betweenesscentrality">0.16835890473915793</data>
+            <data key="bridgingcoefficient">0.0723718330987949964860916907127830199897289276123046875</data>
+            <data key="reenactment">0</data>
+            <data key="name">Isaak</data>
+            <data key="size">42.831535</data>
+            <data key="r">114</data>
+            <data key="g">125</data>
+            <data key="b">255</data>
+            <data key="x">118.54887</data>
+            <data key="y">-41.253628</data>
+        </node>
+        <node id="80">
+            <data key="label">80</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.01142649128241736</data>
+            <data key="degree">7</data>
+            <data key="weighted degree">7.0</data>
+            <data key="eccentricity">6.0</data>
+            <data key="closnesscentrality">0.35064935064935066</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.148132</data>
+            <data key="longitude1">42.457626</data>
+            <data key="org">VVD</data>
+            <data key="harmonicclosnesscentrality">0.4187242798353907</data>
+            <data key="betweenesscentrality">7.634971609143148E-4</data>
+            <data key="bridgingcoefficient">0.275898812512166913268885082288761623203754425048828125</data>
+            <data key="reenactment">0</data>
+            <data key="size">25.080864</data>
+            <data key="r">114</data>
+            <data key="g">125</data>
+            <data key="b">255</data>
+            <data key="x">179.67445</data>
+            <data key="y">-220.26854</data>
+        </node>
+        <node id="81">
+            <data key="label">81</data>
+            <data key="histed">0</data>
+            <data key="pageranks">0.006508925812356268</data>
+            <data key="degree">4</data>
+            <data key="weighted degree">4.0</data>
+            <data key="eccentricity">6.0</data>
+            <data key="closnesscentrality">0.32661290322580644</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">1</data>
+            <data key="latitude1">47.58642</data>
+            <data key="longitude1">41.09805</data>
+            <data key="org">VVD</data>
+            <data key="harmonicclosnesscentrality">0.38292181069958825</data>
+            <data key="betweenesscentrality">0.0036709891887767134</data>
+            <data key="bridgingcoefficient">0.6900369003690036695530807264731265604496002197265625</data>
+            <data key="reenactment">1</data>
+            <data key="size">25.38881</data>
+            <data key="r">114</data>
+            <data key="g">125</data>
+            <data key="b">255</data>
+            <data key="x">-590.4512</data>
+            <data key="y">-315.05566</data>
+        </node>
+        <node id="82">
+            <data key="label">82</data>
+            <data key="histed">1</data>
+            <data key="pageranks">0.0066462458451104715</data>
+            <data key="degree">3</data>
+            <data key="weighted degree">3.0</data>
+            <data key="eccentricity">7.0</data>
+            <data key="closnesscentrality">0.28321678321678323</data>
+            <data key="sex">Male</data>
+            <data key="oldbel">0</data>
+            <data key="latitude1">47.585869</data>
+            <data key="longitude1">41.097482</data>
+            <data key="org">VVD</data>
+            <data key="harmonicclosnesscentrality">0.3369488536155201</data>
+            <data key="betweenesscentrality">1.8237934904601573E-4</data>
+            <data key="bridgingcoefficient">0.59649122807017540548457645854796282947063446044921875</data>
+            <data key="reenactment">0</data>
+            <data key="size">25.019316</data>
+            <data key="r">114</data>
+            <data key="g">125</data>
+            <data key="b">255</data>
+            <data key="x">-852.94385</data>
+            <data key="y">-70.49996</data>
+        </node>
+        <edge id="10006" source="2" target="1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10012" source="3" target="1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10013" source="3" target="2">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10022" source="4" target="3">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10035" source="5" target="2">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10036" source="5" target="3">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10037" source="5" target="4">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10045" source="6" target="3">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10046" source="6" target="4">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10047" source="6" target="5">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10061" source="7" target="4">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10066" source="8" target="4">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10067" source="8" target="7">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10070" source="9" target="7">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10071" source="9" target="8">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10073" source="10" target="7">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10074" source="10" target="8">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10075" source="10" target="9">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10076" source="11" target="4">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10077" source="11" target="6">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10082" source="12" target="11">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10086" source="13" target="11">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10087" source="13" target="12">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10088" source="14" target="6">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10094" source="15" target="6">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10095" source="15" target="14">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10098" source="16" target="4">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10099" source="16" target="5">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10100" source="16" target="14">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10101" source="16" target="15">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10105" source="17" target="11">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10106" source="18" target="6">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10108" source="19" target="6">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10109" source="19" target="18">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10112" source="20" target="6">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10113" source="21" target="3">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10114" source="21" target="4">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10115" source="21" target="16">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10118" source="22" target="19">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10119" source="23" target="3">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10120" source="23" target="19">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10124" source="24" target="4">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10125" source="24" target="5">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10126" source="24" target="23">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10130" source="25" target="12">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10133" source="26" target="2">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10134" source="26" target="3">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10135" source="26" target="4">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10136" source="26" target="5">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10137" source="26" target="6">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10138" source="26" target="24">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10143" source="27" target="26">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10144" source="28" target="1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10145" source="28" target="2">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10146" source="28" target="3">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10147" source="28" target="5">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10148" source="28" target="6">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10149" source="28" target="11">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10150" source="28" target="26">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10153" source="29" target="25">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10162" source="30" target="29">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10163" source="31" target="29">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10165" source="32" target="31">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10166" source="33" target="16">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10169" source="34" target="12">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10170" source="34" target="33">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10177" source="35" target="34">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10179" source="36" target="34">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10180" source="36" target="35">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10181" source="37" target="34">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10184" source="38" target="34">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10185" source="38" target="37">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10187" source="39" target="7">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10188" source="39" target="34">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10189" source="39" target="38">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10192" source="40" target="4">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10193" source="40" target="6">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10194" source="40" target="14">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10195" source="40" target="26">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10196" source="40" target="28">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10197" source="41" target="6">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10198" source="41" target="14">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10199" source="41" target="16">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10200" source="41" target="21">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10202" source="42" target="1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10203" source="42" target="3">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10204" source="42" target="4">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10205" source="42" target="5">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10206" source="42" target="6">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10207" source="42" target="14">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10208" source="42" target="41">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10212" source="43" target="1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10213" source="43" target="42">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10214" source="44" target="42">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10219" source="45" target="44">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10221" source="46" target="29">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10222" source="46" target="33">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10223" source="46" target="39">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10224" source="46" target="44">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10225" source="46" target="45">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10236" source="49" target="29">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10238" source="50" target="25">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10239" source="50" target="29">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10240" source="50" target="46">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10241" source="50" target="49">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10242" source="51" target="29">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10243" source="51" target="46">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10244" source="51" target="47">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10245" source="51" target="48">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10247" source="52" target="29">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10248" source="52" target="46">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10249" source="52" target="47">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10250" source="52" target="48">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10252" source="53" target="29">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10253" source="53" target="46">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10254" source="53" target="47">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10255" source="53" target="48">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10256" source="53" target="51">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10257" source="53" target="52">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10258" source="54" target="44">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10266" source="55" target="44">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10267" source="55" target="54">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10271" source="56" target="54">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10272" source="56" target="55">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10275" source="57" target="54">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10276" source="57" target="55">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10277" source="57" target="56">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10278" source="58" target="54">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10279" source="58" target="55">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10280" source="58" target="56">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10281" source="59" target="54">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10285" source="60" target="54">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10286" source="60" target="59">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10289" source="61" target="59">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10290" source="61" target="60">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10291" source="62" target="59">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10292" source="62" target="60">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10293" source="63" target="6">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10294" source="63" target="15">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10295" source="63" target="21">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10296" source="63" target="54">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10297" source="64" target="5">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10298" source="64" target="28">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10299" source="64" target="34">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10300" source="64" target="37">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10301" source="64" target="39">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10305" source="65" target="64">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10311" source="66" target="64">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10312" source="66" target="65">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10317" source="67" target="64">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10318" source="67" target="65">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10319" source="67" target="66">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10323" source="68" target="65">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10324" source="68" target="66">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10325" source="68" target="67">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10328" source="69" target="65">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10329" source="69" target="66">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10330" source="69" target="67">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10331" source="69" target="68">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10333" source="70" target="65">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10334" source="70" target="66">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10335" source="70" target="67">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10336" source="70" target="68">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10337" source="70" target="69">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10338" source="71" target="1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10339" source="71" target="2">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10340" source="71" target="4">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10341" source="71" target="6">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10342" source="71" target="23">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10343" source="71" target="24">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10344" source="71" target="26">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10345" source="71" target="42">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10351" source="72" target="23">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10352" source="72" target="24">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10353" source="72" target="71">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10356" source="73" target="71">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10358" source="74" target="71">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10359" source="74" target="73">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10360" source="75" target="71">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10361" source="75" target="72">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10365" source="76" target="75">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10367" source="77" target="75">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10368" source="77" target="76">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10369" source="78" target="71">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10370" source="78" target="72">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10371" source="78" target="75">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10372" source="3" target="79">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10373" source="4" target="79">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10374" source="5" target="79">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10375" source="54" target="79">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10376" source="71" target="79">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10377" source="72" target="79">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10378" source="79" target="28">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10379" source="4" target="80">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10380" source="5" target="80">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10381" source="6" target="80">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10382" source="28" target="80">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10383" source="80" target="79">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10384" source="26" target="80">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10385" source="81" target="79">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10387" source="82" target="81">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10388" source="82" target="21">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10389" source="24" target="80">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10390" source="23" target="42">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10391" source="24" target="79">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10392" source="17" target="25">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10393" source="27" target="28">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10395" source="3" target="71">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10396" source="39" target="79">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10397" source="72" target="64">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10398" source="72" target="3">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10399" source="64" target="4">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10400" source="14" target="64">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10401" source="81" target="3">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10402" source="72" target="26">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10403" source="14" target="71">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10404" source="14" target="72">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10405" source="14" target="26">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10406" source="14" target="24">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10407" source="23" target="28">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10408" source="23" target="26">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10410" source="39" target="33">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10411" source="3" target="82">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10412" source="24" target="28">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10413" source="36" target="12">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10414" source="64" target="36">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10415" source="64" target="26">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10416" source="12" target="64">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10417" source="28" target="4">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10418" source="20" target="41">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10419" source="20" target="3">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10420" source="43" target="6">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10421" source="43" target="3">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10422" source="43" target="28">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10423" source="43" target="14">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10424" source="78" target="73">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10425" source="81" target="6">
+            <data key="weight">1.0</data>
+        </edge>
+    </graph>
+</graphml>
